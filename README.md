@@ -6,7 +6,7 @@
 
 Built on our **custom in-house engine** powered by DirectX 11.  
 
-🥉 **Top 3 — Game Development category** at [ZTGK](https://gry.it.p.lodz.pl) 17th edition, 2025
+🥈 **2nd Place — Game Development category** at [ZTGK](https://gry.it.p.lodz.pl) 17th edition, 2025
 
 ---
 
